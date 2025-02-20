@@ -1,0 +1,17 @@
+{
+  "description": "Julia implementation of Vanilla DQN on CartPole environment.",
+  "status": "DONE",
+  "references": [
+    {
+      "title": "Playing Atari with Deep Reinforcement Learning",
+      "url": "https://arxiv.org/abs/1312.5602",
+      "year": 2013
+    }
+  ],
+  "tags": [
+    "Neural Networks",
+    "Deep Learning",
+    "Julia",
+    "Reinforcement Learning"
+  ]
+}
